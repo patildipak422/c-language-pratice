@@ -15,7 +15,16 @@ int main(){
 				if(totalmarks>=180||mathphysics>=140){
 					printf("Congratulation !! You are Eligible for Admission");
 				}
+				else{
+					printf("Sorry You are not eligible for Admissiom");
+				}
 			}
+			else{
+				printf("Sorry You are not eligible for Admissiom");
+			}
+		}
+		else{
+			printf("Sorry You are not eligible for Admissiom");
 		}
 	}
 	else{
